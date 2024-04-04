@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,tests/Benchmark$DequeBenchmark.fillArrayDeque
+inline,tests/Benchmark$DequeBenchmark.fillLinkedListDeque
+inline,tests/Benchmark$DequeBenchmark.generateElements
+inline,tests/Benchmark.generateElements
+inline,tests/Benchmark.removeFirstArray
+inline,tests/Benchmark.removeFirstLinkedList
